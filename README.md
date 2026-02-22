@@ -12,7 +12,6 @@ Scope of testing included:
 - Negative scenario validation
 - Session behavior verification
 
-The objective was to simulate a real-world QA engagement using industry tools and Agile workflow practices.
 
 Tools used:
 
