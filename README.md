@@ -34,7 +34,7 @@ Test cases were created using structured format including:
 
 A total of 10 authentication-related test cases were designed.
 
-#### Test Case Structure
+#### Test Case Structure:
 
 ![TestRail Test Cases](screenshot/testrail-testcases.png)
 
