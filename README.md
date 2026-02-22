@@ -23,3 +23,19 @@ Tools used:
 ---
 
 ## Test Case Design (TestRail Methodology)
+
+Test cases were created using structured format including:
+
+- Unique test IDs
+- Defined preconditions
+- Step-by-step execution
+- Clear expected results
+- Positive and negative scenarios
+
+A total of 10 authentication-related test cases were designed.
+
+### Test Case Structure
+
+*(Insert screenshot – TestRail test case list)*
+
+---
