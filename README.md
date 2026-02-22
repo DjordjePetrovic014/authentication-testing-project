@@ -6,8 +6,7 @@ This project demonstrates a structured manual QA workflow applied to a web authe
 
 Scope of testing included:
 
-- Login functionality
-- Logout functionality
+- Login / Logout functionality
 - Cross-browser validation
 - Negative scenario validation
 - Session behavior verification
