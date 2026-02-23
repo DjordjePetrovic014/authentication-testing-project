@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a structured manual QA workflow applied to a web authentication feature.
+This simple project demonstrates a structured manual QA workflow applied to a web authentication feature and highlights the role of a test scenario within the SDLC.
 
 Scope of testing included:
 
