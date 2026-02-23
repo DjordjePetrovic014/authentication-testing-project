@@ -46,3 +46,48 @@ A total of 10 authentication-related test cases were created.
 ![TestRail Test Cases](screenshot/testrail-testcases.png)
 
 ---
+
+## Test Execution (Cross-Browser Validation)
+
+Test cases were executed within separate test runs to validate authentication behavior across different browsers.
+
+Execution was performed manually in:
+- Google Chrome
+- Mozilla Firefox
+
+This ensured consistent functionality and behavior across environments.
+
+#### Test Run Overview:
+
+![Browser Test Runs](screenshot/testrail-browser.png)
+
+---
+
+## Test Result Documentation
+
+Test results were recorded directly within TestRail, including:
+
+- Pass / Fail status
+- Actual results
+- Observations
+- Environment-specific notes
+
+This demonstrates structured defect documentation and clear traceability of execution outcomes.
+
+#### Failed Test Example:
+
+![Failed Test Result](screenshot/testrail-failed.png)
+
+---
+
+## Milestones & Progress Tracking
+
+Milestones were defined to organize testing activities within planned phases of the authentication module.
+
+This reflects structured test planning and progress tracking aligned with Agile workflow principles.
+
+#### Milestone Overview:
+
+![Milestones Overview](screenshot/testrail-milestones.png)
+
+---
