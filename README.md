@@ -180,3 +180,10 @@ Filters and basic JQL queries were used to organize and analyze issue status and
 ![Jira Sprint Board](screenshot/jira-board.png)
 
 ---
+
+
+## Conclusion
+
+This project represents a structured example of manual QA execution within a Scrum-based workflow.
+
+It demonstrates test case design, cross-browser validation, defect documentation, and issue tracking using TestRail and Jira.
