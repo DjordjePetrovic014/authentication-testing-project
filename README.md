@@ -28,8 +28,6 @@ Scope of testing:
 - Black-box testing approach
 - Positive and negative test design
 
-### Testing Scope
-- Authentication feature validation (Login / Logout functionality)
 
 ---
 
