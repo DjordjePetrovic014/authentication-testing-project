@@ -4,7 +4,7 @@
 
 This simple project demonstrates a structured manual QA workflow applied to a web authentication feature and highlights the role of a test scenario within the SDLC.
 
-Scope of testing included:
+Scope of testing:
 
 - Login / Logout functionality
 - Cross-browser validation
@@ -12,12 +12,24 @@ Scope of testing included:
 - Session behavior verification
 
 
-Tools used:
+## Testing Framework & Environment
 
-- TestRail (test case design & execution structure)
-- Jira (Scrum-based sprint tracking & issue management)
-- Google Chrome
-- Mozilla Firefox
+### Tools
+- TestRail (test case design and execution management)
+- Jira (Scrum-based sprint tracking and defect management)
+- Google Chrome (cross-browser testing)
+- Mozilla Firefox (cross-browser testing)
+- Windows OS
+
+### Methodology & Approach
+- Agile (Scrum framework)
+- Manual test execution
+- Functional testing
+- Black-box testing approach
+- Positive and negative test design
+
+### Testing Scope
+- Authentication feature validation (Login / Logout functionality)
 
 ---
 
