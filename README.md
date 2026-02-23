@@ -117,7 +117,7 @@ Labels and priorities were applied to support filtering and issue categorization
 
 #### Epic & Task Structure:
 
-![Jira Epics and Tasks](screenshots/jira-epics.png)
+![Jira Epics and Tasks](screenshot/jira-epics.png)
 
 
 ---
@@ -141,7 +141,7 @@ Forward and backward transitions were configured to reflect iterative improvemen
 
 #### Custom Workflow Overview:
 
-![Jira Workflow](screenshots/jira-workflow.png)
+![Jira Workflow](screenshot/jira-workflow.png)
 
 ---
 
@@ -163,7 +163,9 @@ A custom priority level ("Top problem") was created for the identified defect.
 
 #### Example Issue Documentation:
 
-![Jira Issue Example](screenshots/jira-issue.png)
+![Jira Issue Example](screenshot/jira-issue01.png)
+![Jira Issue Example](screenshot/jira-issue02.png)
+![Jira Issue Example](screenshot/jira-issue03.png)
 
 ---
 
@@ -175,6 +177,6 @@ Filters and basic JQL queries were used to organize and analyze issue status and
 
 #### Active Sprint Board:
 
-![Jira Sprint Board](screenshots/jira-board.png)
+![Jira Sprint Board](screenshot/jira-board.png)
 
 ---
