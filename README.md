@@ -31,17 +31,15 @@ Scope of testing:
 
 ---
 
-## Test Case Design (TestRail Methodology)
-
-Test cases were created using structured format including:
+## Test Case Design (TestRail)
 
 - Unique test IDs
 - Defined preconditions
-- Step-by-step execution
+- Step-by-step execution steps
 - Clear expected results
 - Positive and negative scenarios
 
-A total of 10 authentication-related test cases were designed.
+A total of 10 authentication-related test cases were created.
 
 #### Test Case Structure:
 
