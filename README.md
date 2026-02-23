@@ -91,3 +91,90 @@ This reflects structured test planning and progress tracking aligned with Agile 
 ![Milestones Overview](screenshot/testrail-milestones.png)
 
 ---
+
+
+## Sprint Planning & Workflow (Jira)
+
+A Scrum-based Jira project was created to manage authentication-related testing activities aligned with the TestRail test suite.
+
+The project structure reflects a realistic QA workflow including task tracking, defect management, and sprint execution.
+
+---
+
+## Project Structure (Epics & Tasks)
+
+The authentication module was organized into two Epics:
+
+- Login
+- Logout
+
+Each Epic contained five tasks, representing individual test scenarios.
+Out of 10 total tasks:
+- 9 were successfully validated
+- 1 was reported and tracked as a bug
+
+Labels and priorities were applied to support filtering and issue categorization.
+
+#### Epic & Task Structure:
+
+![Jira Epics and Tasks](screenshots/jira-epics.png)
+
+
+---
+
+## Custom Workflow Configuration
+
+A custom Scrum workflow was created to simulate a realistic software delivery lifecycle.
+
+Statuses included:
+- Backlog
+- To Do
+- In Development
+- Code Review
+- Staging Test
+- Preproduction
+- Prod Merge
+- Ready for Deployment
+- Done
+
+Forward and backward transitions were configured to reflect iterative improvements and defect resolution flow.
+
+#### Custom Workflow Overview:
+
+![Jira Workflow](screenshots/jira-workflow.png)
+
+---
+
+## Issue Structure & Documentation
+
+Each task included structured issue documentation:
+
+- Summary
+- Steps to reproduce
+- Expected result
+- Actual result
+- Notes
+- Attachments
+- Assigned Epic
+- Labels
+- Priority
+
+A custom priority level ("Top problem") was created for the identified defect.
+
+#### Example Issue Documentation:
+
+![Jira Issue Example](screenshots/jira-issue.png)
+
+---
+
+## Sprint Board & Tracking
+
+All statuses were displayed within the Active Sprint board to visualize progress across the authentication workflow.
+
+Filters and basic JQL queries were used to organize and analyze issue status and severity.
+
+#### Active Sprint Board:
+
+![Jira Sprint Board](screenshots/jira-board.png)
+
+---
